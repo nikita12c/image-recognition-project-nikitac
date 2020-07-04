@@ -1,0 +1,1 @@
+# image-recognition-project-nikitac
